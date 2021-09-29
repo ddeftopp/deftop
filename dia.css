@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,500;1,400&family=Josefin+Sans:ital,wght@1,300&family=Lobster&display=swap');
+.block{
+	width: 1000px;
+	height: 930px;
+	background-color: #87CEFA;
+}
+.dia_mother{
+	position: relative;
+	top: 30px;
+	left: 20px;
+	display: flex;
+	width: 1000px;
+	height: 100px;
+	flex-direction: row;
+}
+.dia{
+	width: 50px;
+	height: 50px;
+	border-radius: 23%;
+	background-color: black;
+	text-align: center;
+	font-family: 'EB Garamond', serif;
+	color: white;
+
+}
+.text_dia{
+	position: relative;
+	bottom: 7px;
+}
+.qr{
+	position: relative;
+	left: 870px;
+	top: 10px;
+	width: 35px;
+	height: 35px;
+}
